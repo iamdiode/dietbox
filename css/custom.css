@@ -1,0 +1,53 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto|Lato|Titillium+Web);
+
+body {
+	font-family: 'Roboto', sans-serif;
+	padding-top: 70px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+	color: #4183D7;
+	font-family: 'Lato', sans-serif;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.navbar-custom {
+	background: rgba(0,0,0,0.8);
+}
+
+.navbar-nav > li > a {
+	color: #F5D76E;
+	font-family: 'Titillium Web', sans-serif;
+	text-decoration: none;
+}
+
+.navbar-nav > li > a:hover {
+	background: none;
+	color: #F4D03F;
+}
+
+img {
+	margin: 0 auto;
+}
+
+form {
+	padding: 8px;
+}
+
+.contact-no {
+	color: #87D37C;
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+#contact {
+	max-width: 1000px;
+	background: #E8EBE0;
+	margin: 0 auto;
+}
